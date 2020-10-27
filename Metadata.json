@@ -1,0 +1,20 @@
+{
+    "Author": "Manjunath Rao G",
+    "ContentSize": 9989,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/monitor-azure-vm-availability/master/AzureVM_Availability.ps1",
+    "DownloadCount": 1058,
+    "Id": "Monitor-Azure-VM-d68d8d39",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 180,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-2-27T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The idea behind writing this script is to have an automated solution to monitor availability of any Azure VMs. The script fetches the current server status, saves it in an Azure Table. Each script execution is one poll. So the second time the script runs, it fetches the current",
+    "Title": "Monitor Azure VM Availability",
+    "UpdatedDate": "2017-2-27T00:00:00",
+    "Url": "https://github.com/azureautomation/monitor-azure-vm-availability",
+    "UserTags": "Powershell, Windows Azure Virtual Machines"
+}
